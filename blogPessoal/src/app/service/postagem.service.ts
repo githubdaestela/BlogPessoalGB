@@ -7,3 +7,5 @@ export class PostagemService {
 
   constructor() { }
 }
+
+/*get all postagens*/
